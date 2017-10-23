@@ -1,0 +1,19 @@
+.title,.info {
+	text-align: center;
+}
+.info small {
+	margin-left: 10px;
+	font-size: 16px;
+}
+.textarea {
+	width: 1190px;
+	margin: 0 auto;
+	padding-top: 25px;
+}
+.preNext {
+	width: 1190px;
+}
+.text {
+	list-style: none;
+	margin-top: 100px;
+}

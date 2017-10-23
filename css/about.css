@@ -1,0 +1,46 @@
+.titleImg img {
+	width:1190px;
+	height: 200px;
+}
+.planbox {
+	width: 1190px;
+	margin-top: 50px;
+}
+.AboutUsleft img{
+	padding-left: 5px;
+}
+
+.AboutUslefttop {
+	width: 220px;
+	height: 34px;
+}
+.AboutUsleftbottom {
+	width: 150px;
+	height: 280px;
+	margin: 0 auto;
+	background-color: #545454;
+}
+#list:hover {
+	background-color: #D2D2D2;
+}
+#lista:hover #list{
+	color: #000;
+}
+.AboutUsleftbottom ul a{
+	list-style: none;
+	text-decoration: none;
+	color: #fff;
+}
+.AboutUsleftbottom ul li{
+	background-repeat: no-repeat;
+	line-height: 30px;
+	width: 150px;
+	text-align: center;
+	list-style: none;
+	text-decoration: none;
+	padding: 5px 0 5px 0;
+	transition: all 0.5s linear;
+}
+.AboutUsright{
+	padding:20px;
+}
